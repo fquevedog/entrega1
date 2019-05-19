@@ -1,0 +1,4 @@
+Su nombre es: fer
+Su identificacion es: 123456
+Eligio el siguiente curso:
+{"id":1,"nombre":"Fotografia e imagen digital","intensidad":"120 horas","horario":"lunes, miercoles y jueves de 6 p.m. a 9 p.m. sabados de 9 a.m. a 12 m.","valor":2781250}
